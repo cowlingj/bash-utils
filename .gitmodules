@@ -1,0 +1,9 @@
+[submodule "auto-ssh"]
+	path = auto-ssh
+	url = git@github.com:cowlingj/auto-ssh.git
+[submodule "bash-clock"]
+	path = bash-clock
+	url = git@github.com:cowlingj/bash-clock.git
+[submodule "backup-and-restore"]
+	path = backup-and-restore
+	url = git@github.com:cowlingj/backup-and-restore.git
